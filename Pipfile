@@ -1,0 +1,37 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+matplotlib = "*"
+scipy = "*"
+jupyter = "*"
+notebook = "*"
+seaborn = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
+sklearn = "*"
+keras = "*"
+tensorflow = "*"
+pillow = "*"
+kaggle = "*"
+nbdime = "*"
+jupyterlab = "*"
+imageio = "*"
+pypandoc = "*"
+latex2mathml = "*"
+netcdf4 = "*"
+librosa = "*"
+pandoc-fignos = "*"
+pandoc-secnos = "*"
+pandoc-eqnos = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
