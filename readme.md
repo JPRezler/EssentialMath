@@ -16,7 +16,7 @@ Let's start with the setup!
 
 Clone the repository to have the code on your computer. Alternatively, you can download the Github repository that contains the notebooks:
 
-<img src="images/ch01_setup.png" width="300">
+<img src="images/ch01_setup.png" width="600">
 
 Click the `clone` button and then download the `.zip`. Then, unzip the file, open a terminal, and go to that folder:
 
